@@ -2,9 +2,9 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+## Contenidos
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+**1.** [**Week 1: Deep Learning**](https://github.com/camilogutierrez/MachineLearning/blob/master/DeepLearning.ipynb)
 
 ### Prerequisites
 
@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Camilo Gutierrez** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
