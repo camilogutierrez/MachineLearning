@@ -4,18 +4,10 @@ One Paragraph of project description goes here
 
 ## Contenidos
 
-**1.** [**Week 1: Deep Learning**](https://github.com/camilogutierrez/MachineLearning/blob/master/DeepLearning.ipynb)
-    [**Homework 0: Python**](https://github.com/camilogutierrez/MachineLearning/blob/master/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-    [**Homework 1: Logistic Regression as a Neural Network**](https://github.com/camilogutierrez/MachineLearning/blob/master/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynbb)
-    [**Homework 2: One hidden layer**](https://github.com/camilogutierrez/MachineLearning/blob/master/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+**1.** [**Neural Networks and Deep Learning**](https://github.com/camilogutierrez/MachineLearning/blob/master/DeepLearning.ipynb)
+* [**Homework 0: Python**](https://github.com/camilogutierrez/MachineLearning/blob/master/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+* [**Homework 1: Logistic Regression as a Neural Network**](https://github.com/camilogutierrez/MachineLearning/blob/master/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynbb)
+* [**Homework 2: One hidden layer**](https://github.com/camilogutierrez/MachineLearning/blob/master/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 
 ### Installing
 
@@ -34,26 +26,6 @@ until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
@@ -82,9 +54,3 @@ See also the list of [contributors](https://github.com/your/project/contributors
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
