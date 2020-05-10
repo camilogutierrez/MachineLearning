@@ -5,6 +5,9 @@ One Paragraph of project description goes here
 ## Contenidos
 
 **1.** [**Week 1: Deep Learning**](https://github.com/camilogutierrez/MachineLearning/blob/master/DeepLearning.ipynb)
+    [**Homework 0: Python**](https://github.com/camilogutierrez/MachineLearning/blob/master/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+    [**Homework 1: Logistic Regression as a Neural Network**](https://github.com/camilogutierrez/MachineLearning/blob/master/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynbb)
+    [**Homework 2: One hidden layer**](https://github.com/camilogutierrez/MachineLearning/blob/master/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 
 ### Prerequisites
 
