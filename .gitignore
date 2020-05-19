@@ -1,4 +1,5 @@
 Documentacion/
+__pycache__/
 .ipynb_checkpoints/
 # PDF extensions
 *.pdf
