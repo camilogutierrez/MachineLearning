@@ -3,7 +3,7 @@
 
 Introducción al análisis de datos con técnicas de inteligencia artificial.
 
-Profesor: Luis Fernando Carvajal Serna 
+Profesor: Luis Fernando Carvajal Serna.
 
 ## Contenidos
 [Introduccion](https://github.com/camilogutierrez/MachineLearning/blob/master/MachineLearning.ipynb)
