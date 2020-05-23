@@ -17,6 +17,9 @@ Profesor: Luis Fernando Carvajal Serna.
 * [**Homework 3: Deep_Neural_Network_Step_by_Step**](https://github.com/camilogutierrez/MachineLearning/blob/master/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 * [**Deep Neural Application**](https://github.com/camilogutierrez/MachineLearning/blob/master/Deep_Neural_Network_Application_v8.ipynb)
 
+**2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** 
+[Notas del curso](https://github.com/camilogutierrez/MachineLearning/blob/master/Improving_DeepLearning.ipynb)
+
 ## Autor
 
 * **Camilo Gutierrez** - *cagutierrezra@unal.edu.co* 
