@@ -19,7 +19,8 @@ Profesor: Luis Fernando Carvajal Serna.
 
 **2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** 
 [Notas del curso](https://github.com/camilogutierrez/MachineLearning/blob/master/Improving_DeepLearning.ipynb)
-
+* [**Homework 1: Initialization**](https://github.com/camilogutierrez/MachineLearning/blob/master/Initialization.ipynb)
+* [**Homework 2: Regularization**](https://github.com/camilogutierrez/MachineLearning/blob/master/Regularization_v2a.ipynb)
 ## Autor
 
 * **Camilo Gutierrez** - *cagutierrezra@unal.edu.co* 
