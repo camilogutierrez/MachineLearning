@@ -1,5 +1,5 @@
  **Programa Académico Especial PAE** 
-# Machine Learning
+# Deep Learning
 
 Introducción al análisis de datos con técnicas de inteligencia artificial.
 
