@@ -23,6 +23,10 @@ Profesor: Luis Fernando Carvajal Serna.
 * [**Homework 1: Initialization**](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Initialization.ipynb)
 * [**Homework 2: Regularization**](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Regularization_v2a.ipynb)
 * [**Homework 3: Optimization**](https://nbviewer.jupyter.org/github/https://github.com/camilogutierrez/MachineLearning/blob/master/Optimization_methods_v1b.ipynb)
+
+
+<img src="images/web.png" style="width:650px;height:400px;">
+
 ## Autor
 
 * **Camilo Gutierrez** - *cagutierrezra@unal.edu.co* 
