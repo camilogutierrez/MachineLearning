@@ -31,7 +31,8 @@ Profesor: Luis Fernando Carvajal Serna.
 * [**Homework 2: Regularization**](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Regularization_v2a.ipynb)
 
 
-<img src="images/MindMap.svg" ;">
+![Example](./images/MindMap.svg)
+
 
 ## Autor
 
