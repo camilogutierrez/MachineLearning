@@ -4,7 +4,7 @@ author:
   email: cagutierrezra@unal.edu.co
 description: > # this means to ignore newlines until "show_excerpts:"
   Introducción al análisis de datos con técnicas de inteligencia artificial.
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 markdown: kramdown
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
