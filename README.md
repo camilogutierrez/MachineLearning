@@ -1,4 +1,4 @@
- # Programa Académico Especial PAE
+ # Práctica Académica Especial PAE
  
 Introducción al análisis de datos con técnicas de inteligencia artificial.
 
