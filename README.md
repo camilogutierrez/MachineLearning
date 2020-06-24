@@ -5,7 +5,7 @@ Introducción al análisis de datos con técnicas de inteligencia artificial.
 
 Profesor: Luis Fernando Carvajal Serna.
 
-<a href="https://github.com/camilogutierrez/MachineLearning/blob/master/PAE_CONTENIDOS.pdf" target="_blank">please click here.</a> <embed src="https://github.com/camilogutierrez/MachineLearning/blob/master/PAE_CONTENIDOS.pdf" width="1000px" height="800px" />
+<a href="https://camilogutierrez.github.io/MachineLearning/PAE_CONTENIDOS.pdf" target="_blank">please click here.</a> <embed src="https://camilogutierrez.github.io/MachineLearning/PAE_CONTENIDOS.pdf" width="1000px" height="800px" />
 
 ## Contenidos
 [Introduccion](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/MachineLearning.ipynb)
