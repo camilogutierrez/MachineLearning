@@ -1,6 +1,6 @@
-## Práctica Académica Especial PAE
- 
 Introducción al análisis de datos con técnicas de inteligencia artificial.
+
+## Práctica Académica Especial PAE
 
 Profesor: Luis Fernando Carvajal Serna.
 
