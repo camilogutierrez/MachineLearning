@@ -1,7 +1,6 @@
 title: Deep Learning
-author:
-  name: GitHub User
-  email: your-email@domain.com
+author: Camilo Gutierrez
+email: cagutierrezra@unal.edu.co
 description: > # this means to ignore newlines until "show_excerpts:"
   Introducción al análisis de datos con técnicas de inteligencia artificial.
 show_excerpts: true # set to true to show excerpts on the homepage
