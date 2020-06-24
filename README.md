@@ -31,7 +31,7 @@ Profesor: Luis Fernando Carvajal Serna.
 
 ---
 
-[**Mapa Conceptual**](https://camilogutierrez.github.io/MachineLearning/images/MindMap.svg)
+[**Abrir Mapa Conceptual**](https://camilogutierrez.github.io/MachineLearning/images/MindMap.svg)
 
 ![Example](./images/MindMap.svg)
 
