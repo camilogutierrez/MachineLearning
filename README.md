@@ -27,9 +27,10 @@ Profesor: Luis Fernando Carvajal Serna.
 **3. Structuring Machine Learning Projects** 
 
 [Notas del curso](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Curso3.ipynb)
-* [**Homework 1: Initialization**](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Initialization.ipynb)
-* [**Homework 2: Regularization**](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Regularization_v2a.ipynb)
 
+---
+
+[**Mapa Conceptual**](https://camilogutierrez.github.io/MachineLearning/images/MindMap.svg)
 
 ![Example](./images/MindMap.svg)
 
