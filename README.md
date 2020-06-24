@@ -1,9 +1,10 @@
- **Programa Académico Especial PAE** 
-# Deep Learning
-
 Introducción al análisis de datos con técnicas de inteligencia artificial.
 
+## Práctica Académica Especial PAE
+
 Profesor: Luis Fernando Carvajal Serna.
+
+<a href="https://camilogutierrez.github.io/MachineLearning/PAE_CONTENIDOS.pdf" target="_blank">Abrir PDF</a> <embed src="https://camilogutierrez.github.io/MachineLearning/PAE_CONTENIDOS.pdf" width="1000px" height="800px" />
 
 ## Contenidos
 [Introduccion](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/MachineLearning.ipynb)
@@ -19,19 +20,21 @@ Profesor: Luis Fernando Carvajal Serna.
 
 **2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** 
 
-[Notas del curso](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Improving_DeepLearning.ipynb)
+[Notas del curso](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Improving%20Deep%20Learning.ipynb)
 * [**Homework 1: Initialization**](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Initialization.ipynb)
 * [**Homework 2: Regularization**](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Regularization_v2a.ipynb)
-* [**Homework 3: Optimization**](https://nbviewer.jupyter.org/github/https://github.com/camilogutierrez/MachineLearning/blob/master/Optimization_methods_v1b.ipynb)
+* [**Homework 3: Optimization**](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Optimization_methods_v1b.ipynb)
 
 **3. Structuring Machine Learning Projects** 
 
 [Notas del curso](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Curso3.ipynb)
-* [**Homework 1: Initialization**](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Initialization.ipynb)
-* [**Homework 2: Regularization**](https://nbviewer.jupyter.org/github/camilogutierrez/MachineLearning/blob/master/Regularization_v2a.ipynb)
 
+---
 
-<img src="images/MindMap.svg" style="width:650px;height:400px;">
+[**Abrir Mapa Conceptual**](https://camilogutierrez.github.io/MachineLearning/images/MindMap.svg)
+
+![Example](./images/MindMap.svg)
+
 
 ## Autor
 
