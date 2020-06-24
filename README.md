@@ -1,6 +1,5 @@
  **Programa Académico Especial PAE** 
-# Deep Learning
-
+ 
 Introducción al análisis de datos con técnicas de inteligencia artificial.
 
 Profesor: Luis Fernando Carvajal Serna.
